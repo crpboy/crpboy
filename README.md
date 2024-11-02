@@ -6,6 +6,7 @@ Feel free to view my blog: https://crpboy.github.io
 ﻿
 - 🌱 I’m currently learning computer operating system & computer architecture.
 - ⚒️ I'm working on project [NoAxiom](https://github.com/NoAxiom).
+- 🏆 My work for LoongArch out-of-order dual issue CPU: [NoAXI](https://github.com/NoAXI/NoAXI-LoongArch-CPU).
 - 📫 Contact me via E-mail *crpboy2004@qq.com*.
 - 📫 You can also contact me through QQ *[2268414361](https://d.4rxb.com/s/0mnrlj)*.
  
