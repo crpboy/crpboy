@@ -11,4 +11,9 @@ Feel free to view [my blog](https://crpboy.github.io).
 - ✨ My work for LoongArch CPU: **[NoAXI](https://github.com/NoAXI/NoAXI-LoongArch-CPU)**. It won second prize in NSCSCC 2024.
 - 📫 Contact me via E-mail *crpboy2004@qq.com* or QQ *[2268414361](https://d.4rxb.com/s/0mnrlj)*.
 
-![crpboy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=crpboy&theme=vue-dark&hide_border=true)
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crpboy&theme=vue-dark&hide_border=true"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crpboy&hide=javascript,html,css,typescript&theme=vue-dark&hide_border=true&size_weight=0.5&count_weight=0.5&include_all_commits=true"/>
+</a>
