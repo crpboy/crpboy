@@ -6,7 +6,7 @@ Feel free to view [my blog](https://crpboy.github.io).
 
 ## About me
 
-- 🌱 My study field lies in **operating system** and **parallelled architecture**, especially **schedule** techniques.
+- 🌱 My study field: **operating system** and **parallelled architecture**, especially **schedule** techniques.
 - ⚒️ I'm working on **[NoAxiom](https://github.com/NoAxiom)**, a rust-based **operating system** on RISC-V platform.
 - ✨ My work for LoongArch CPU: **[NoAXI](https://github.com/NoAXI/NoAXI-LoongArch-CPU)**. It won second prize in NSCSCC 2024.
 - 📫 Contact me via E-mail *crpboy2004@qq.com* or QQ *[2268414361](https://d.4rxb.com/s/0mnrlj)*.
