@@ -2,7 +2,7 @@
 
 > 还是太菜了
 
-Feel free to view [my blog](https://crpboy.github.io).
+Feel free to view my [new blog](https://crpboy.top/) and [old blog](https://crpboy.github.io).
 
 ## About me
 
