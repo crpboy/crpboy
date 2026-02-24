@@ -6,7 +6,7 @@ Feel free to view my [new blog](https://crpboy.top/) and [old blog](https://crpb
 
 ## About me
 
-- 🌱 I am curious about: operating system observability, eBPF technique, embedded operating system.
+- 🌱 I am studying: operating system observability, eBPF technique, embedded operating system.
 - ⚒️ Projects during my college years:
   - ✨ [NoAxiom](https://github.com/NoAxiom): A rust-based operating system kernel, featuring with stackless async-await runtime design and well-designed HAL layer. It has won the first prize in CSCC OS kernel competition.
   - ✨ [NoAXI LoongArch CPU](https://github.com/NoAXI/NoAXI-LoongArch-CPU): A FPGA CPU design for LoongArch architecture, written in modern RTL chisel(scala). It has won the second prize in NSCSCC 2024.
